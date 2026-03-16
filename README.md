@@ -32,3 +32,14 @@ Activity recognition is useful for health and fitness applications, but strong i
 
 ## Team Attribution
 This repository is a cleaned personal portfolio version of a team project. The original work was completed collaboratively with my teammates, and this version is organized to highlight the project workflow, results, and my specific contributions.
+
+## Selected Results
+
+### Internal vs External Performance
+![Internal vs External Performance](outputs/figures/internal-testset-performance-comparison.png)
+
+### External Validation Performance
+![External Validation Performance](outputs/figures/external-validation-performance.png)
+
+### Feature Importance
+![Feature Importance](outputs/figures/feature-importance.png)
