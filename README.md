@@ -36,10 +36,10 @@ This repository is a cleaned personal portfolio version of a team project. The o
 ## Selected Results
 
 ### Internal vs External Performance
-![Internal vs External Performance](outputs/figures/internal-testset-performance-comparison.png)
+![Internal vs External Performance](outputs/tables/Internal%20Testset%20Performance%20Comparison.png)
 
 ### External Validation Performance
-![External Validation Performance](outputs/figures/external-validation-performance.png)
+![External Validation Performance](outputs/tables/External%20Validation%20Performance.png)
 
 ### Feature Importance
-![Feature Importance](outputs/figures/feature-importance.png)
+![Feature Importance](outputs/tables/Feature%20Importance.png)
